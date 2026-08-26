@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 I'm Simon Bergstedt</h1>
-<h3 align="center">a Stockholm-based student and aspiring game programmer. I love building modular gameplay systems in Unreal Engine/Unity. **More text later**</h3>
+<h3 align="center">a Stockholm-based Game Programmer student with focus on C# / C++ (Unity + Unreal). I have found an interest in building modular and ease of use gameplay systems as well as newly found interest in Engine Engineering and development.</h3>
 
 - 🌱 I’m currently learning **Mobile Game Development, Backend networking programming & AR/VR**
 
