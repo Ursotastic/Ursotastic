@@ -11,6 +11,15 @@
 
 - ⚡ Fun fact **I'm a great baker!**
 
+___________________________________________________________________________________________________________________________
+** TO-DO **
+Projects to add to use to market myself: 
+* InteractiveWorldSystem (Unreal Project 2)
+* Puzzle/EscapeRoom (Unreal Project 1)
+* DogKnight Adventure (Unity)
+* TrickyTowerClone (Unity, optional school assignment).
+* Bonuses (Data algorithms, pathfindings etc) (RayLib assignments - choose what I think will gain most traction with).
+___________________________________________________________________________________________________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/simon-bergstedt-4bb16a180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simon-bergstedt-4bb16a180" height="30" width="40" /></a>
