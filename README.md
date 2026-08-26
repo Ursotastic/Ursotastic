@@ -19,6 +19,7 @@ Projects to add to use to market myself:
 * DogKnight Adventure (Unity)
 * TrickyTowerClone (Unity, optional school assignment).
 * Bonuses (Data algorithms, pathfindings etc) (RayLib assignments - choose what I think will gain most traction with).
+* AI Perception (Maybe? Didnt find it too interesting, but might be good to add)
 ___________________________________________________________________________________________________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
