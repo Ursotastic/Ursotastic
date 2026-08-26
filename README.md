@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon Bergstedt</h1>
+<h1 align="center">Hi!👋 I'm Simon Bergstedt</h1>
 <h3 align="center">a Stockholm-based student and aspiring game programmer. I love building modular gameplay systems in Unreal Engine/Unity. **More text later**</h3>
 
 - 🌱 I’m currently learning **Mobile Game Development, Backend networking programming & AR/VR**
